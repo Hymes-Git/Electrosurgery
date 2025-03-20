@@ -122,7 +122,7 @@ int main(void)
 
     HAL_GPIO_WritePin(LED1_GPIO_PORT, LED1_PIN, 0);
 
-    HAL_Delay(1000);
+    HAL_Delay(500);
 
     /* USER CODE END WHILE */
 
