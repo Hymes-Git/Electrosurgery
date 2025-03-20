@@ -1,0 +1,15 @@
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+build/
+cmake/
+CMakeFiles/
+
+
+build.ninja
+cmake_install.cmake
+CMakeCache.txt
+CMakePresets.json
+compile_commands.json
+startup_stm32h753xx.s
